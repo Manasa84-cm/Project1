@@ -1,0 +1,92 @@
+#body{
+    background-image: url(src/assets/ki.jpg);
+    height: 100vh;
+    width:100vw;
+    background-size: 100% 100%;
+     background-size: cover; 
+    background-repeat: no-repeat;
+    background-position:center;
+    
+}
+
+#hol{
+    height: 50vh;
+    width:100vw;
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position:center;
+    border-radius: 10px;
+    display: flex;
+     align-items: center;
+    justify-content: center;
+    /* background-color: red; */
+
+}
+
+video{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+#lo{
+    padding: 20px;
+    font-size: 10px;
+    
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    right: 200px;
+    bottom: 5%;
+    font-size:20px;
+     background: transparent;
+
+}
+#hw{
+    padding: 20px;
+    font-size: 40px;
+    color: rgb(119, 240, 139);
+    width: 60%;
+    text-align: center;
+    position: absolute;
+    left: 300px;
+    bottom: 50%;
+    font-size:20px;
+}
+#pa{
+    padding: 20px;
+    font-size: 30px;
+    color: rgb(119, 240, 139);
+    width: 60%;
+    text-align: center;
+    position: absolute;
+    left: 300px;
+    bottom: 40%;
+    font-size: 20px;
+}
+#onclick{
+    display: flex;
+     background: transparent;
+    color: rgb(60, 24, 110);
+    padding: 10px 20px;
+    font-weight: bold;
+    font-size: 20px;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+    background-color:rgb(80, 221, 80);
+    
+
+
+
+}
+#jh{
+    color: rgb(208, 52, 146);
+    padding: 20px;
+}
+#hmm{
+    color: rgb(129, 15, 167);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}

@@ -1,0 +1,38 @@
+#first {
+    background-color: wheat;
+    width: 207vh;
+    height: 16vh;
+    color: rgb(78, 20, 145);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+
+#line {
+    align-items: center;
+    display: flex;
+    list-style-type: none;
+    font-size: 20px;
+    justify-content: space-between;
+    width: 35vw;
+    margin-left: 50px;
+    cursor: pointer;
+}
+
+
+#login {
+
+    display: flex;
+    list-style-type: none;
+    font-size: 20px;
+    margin-left: 20px;
+    cursor: pointer;
+    color: rgb(175, 12, 110);
+    
+}
